@@ -1,4 +1,4 @@
-# Black_Friday_Sale_Analysis
+# Black_Friday_Sales_Analysis
 
 Project Introduction
 
